@@ -9,7 +9,6 @@ Sou estudante de **Design Gráfico** na _Universidade Federal do Amazonas_ e **D
 
 ## Tecnologias e ferramentas em aprendizado :desktop_computer:
 
----
 <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,7 +22,6 @@ Sou estudante de **Design Gráfico** na _Universidade Federal do Amazonas_ e **D
 
 ## Acompanhe minhas redes sociais :thumbsup:
 
----
 <br>
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andssilva/)](https://www.linkedin.com/in/andssilva/)
@@ -36,7 +34,6 @@ Sou estudante de **Design Gráfico** na _Universidade Federal do Amazonas_ e **D
 
 ## Github Stats :zap:
 
----
 <br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AndersonSilva94&show_icons=true&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true) ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSilva94&theme=vue-dark)
