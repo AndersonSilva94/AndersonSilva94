@@ -7,7 +7,7 @@ Sou estudante de **Design Gráfico** na _Universidade Federal do Amazonas_ e **D
 
 <br>
 
-## Tecnologias e ferramentas :desktop_computer:
+## Tecnologias e ferramentas em aprendizado :desktop_computer:
 
 ---
 <br>
@@ -25,7 +25,18 @@ Sou estudante de **Design Gráfico** na _Universidade Federal do Amazonas_ e **D
 
 ---
 <br>
-[<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andssilva/)
-[<img src="https://img.shields.io/badge/behance-%231769FF.svg?&style=for-the-badge&logo=behance&logoColor=white" />](https://www.behance.net/andersonsilva23)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/it_s_andy/)
-[<img src="https://img.shields.io/badge/pinterest-%23BD081C.svg?&style=for-the-badge&logo=pinterest&logoColor=white">](https://pin.it/LJ0f4QV) 
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andssilva/)](https://www.linkedin.com/in/andssilva/)
+[![Behance](https://img.shields.io/badge/behance-%231769FF.svg?&style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/andersonsilva23)](https://www.behance.net/andersonsilva23)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/it_s_andy/)](https://www.instagram.com/it_s_andy/)
+[![Pinterest](https://img.shields.io/badge/pinterest-%23BD081C.svg?&style=for-the-badge&logo=pinterest&logoColor=white&link=https://pin.it/LJ0f4QV)](https://pin.it/LJ0f4QV)
+
+
+<br>
+
+## Github Stats :zap:
+
+---
+<br>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AndersonSilva94&show_icons=true&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true) ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSilva94&theme=vue-dark)
