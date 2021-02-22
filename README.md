@@ -1,15 +1,12 @@
 # Olá, eu sou o Anderson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 ## Bem-vindos ao meu perfil!
 
-<br>
-
 Sou estudante de **Design Gráfico** na _Universidade Federal do Amazonas_ e **Desenvolvimento Full Stack** na _Trybe_. Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
 
 <br>
 
 ## Tecnologias e ferramentas em aprendizado :desktop_computer:
 
-<br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,18 +19,15 @@ Sou estudante de **Design Gráfico** na _Universidade Federal do Amazonas_ e **D
 
 ## Acompanhe minhas redes sociais :thumbsup:
 
-<br>
-
 [![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andssilva/)](https://www.linkedin.com/in/andssilva/)
 [![Behance](https://img.shields.io/badge/behance-%231769FF.svg?&style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/andersonsilva23)](https://www.behance.net/andersonsilva23)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/it_s_andy/)](https://www.instagram.com/it_s_andy/)
 [![Pinterest](https://img.shields.io/badge/pinterest-%23BD081C.svg?&style=for-the-badge&logo=pinterest&logoColor=white&link=https://pin.it/LJ0f4QV)](https://pin.it/LJ0f4QV)
 
-
 <br>
 
 ## Github Stats :zap:
 
-<br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AndersonSilva94&show_icons=true&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true) ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSilva94&theme=vue-dark)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AndersonSilva94&show_icons=true&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true) ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSilva94&theme=vue-dark&layout=compact)
