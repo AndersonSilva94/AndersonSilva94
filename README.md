@@ -18,3 +18,14 @@ Sou estudante de **Design Gráfico** na _Universidade Federal do Amazonas_ e **D
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<br>
+
+## Acompanhe minhas redes sociais :thumbsup:
+
+---
+<br>
+[<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andssilva/)
+[<img src="https://img.shields.io/badge/behance-%231769FF.svg?&style=for-the-badge&logo=behance&logoColor=white" />](https://www.behance.net/andersonsilva23)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/it_s_andy/)
+[<img src="https://img.shields.io/badge/pinterest-%23BD081C.svg?&style=for-the-badge&logo=pinterest&logoColor=white">](https://pin.it/LJ0f4QV) 
