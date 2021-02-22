@@ -1,9 +1,8 @@
 # Olá, eu sou o Anderson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 ## Bem-vindos ao meu perfil!
 
-Sou estudante de **Design Gráfico** na _Universidade Federal do Amazonas_ e **Desenvolvimento Full Stack** na _Trybe_. Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
+Sou estudante de **Design Gráfico** na _Universidade Federal do Amazonas_ e **Desenvolvimento Full Stack Web** na _Trybe_. Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
 
-<br>
 
 ## Tecnologias e ferramentas em aprendizado :desktop_computer:
 
@@ -15,7 +14,6 @@ Sou estudante de **Design Gráfico** na _Universidade Federal do Amazonas_ e **D
 ![Github](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<br>
 
 ## Acompanhe minhas redes sociais :thumbsup:
 
@@ -24,10 +22,7 @@ Sou estudante de **Design Gráfico** na _Universidade Federal do Amazonas_ e **D
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/it_s_andy/)](https://www.instagram.com/it_s_andy/)
 [![Pinterest](https://img.shields.io/badge/pinterest-%23BD081C.svg?&style=for-the-badge&logo=pinterest&logoColor=white&link=https://pin.it/LJ0f4QV)](https://pin.it/LJ0f4QV)
 
-<br>
 
 ## Github Stats :zap:
-
-
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AndersonSilva94&show_icons=true&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true) ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSilva94&theme=vue-dark&layout=compact)
