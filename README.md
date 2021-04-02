@@ -23,6 +23,7 @@ Sou estudante de **Design Gráfico** na _Universidade Federal do Amazonas_ e **D
 [![Pinterest](https://img.shields.io/badge/pinterest-%23BD081C.svg?&style=for-the-badge&logo=pinterest&logoColor=white&link=https://pin.it/LJ0f4QV)](https://pin.it/LJ0f4QV)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://web.facebook.com/anderson.silva.37/)](https://web.facebook.com/anderson.silva.37/)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198978248154/)](https://steamcommunity.com/profiles/76561198978248154/)
+[![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/22r265knlds5dv4ba77ve6gpq?si=oE0bMTLbSOaEVlL1KN8bcg)](https://open.spotify.com/user/22r265knlds5dv4ba77ve6gpq?si=oE0bMTLbSOaEVlL1KN8bcg)
 
 [comment]: # (Ideia steam por Lucas Lara - Turma 10 - Tribo A do curso de Desenvolvimento Web da Trybe)
 
