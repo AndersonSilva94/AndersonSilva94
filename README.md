@@ -1,6 +1,6 @@
-# Olá, eu sou o Anderson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<img src="https://github.com/AndersonSilva94/AndersonSilva94/blob/main/assets/programador.gif" width="400px" align="right" alt="rotina-dev">
 
-<img src="https://github.com/AndersonSilva94/AndersonSilva94/blob/main/assets/programador.gif" width="270px" align="right" alt="rotina-dev">
+# Olá, eu sou o Anderson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 ## Bem-vindos(as) ao meu perfil!
 
