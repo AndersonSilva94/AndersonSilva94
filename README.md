@@ -1,7 +1,8 @@
 # Olá, eu sou o Anderson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-## Bem-vindos(as) ao meu perfil!
 
-<img width="245px" height="88" align="right" alt="rotina-dev">
+<img src="https://github.com/AndersonSilva94/AndersonSilva94/blob/main/assets/programador.gif" width="270px" align="right" alt="rotina-dev">
+
+## Bem-vindos(as) ao meu perfil!
 
 Sou estudante de **Design Gráfico** na <a href="https://www.ufam.edu.br/">_Universidade Federal do Amazonas_</a> e **Desenvolvimento Full Stack Web** na <a href="https://www.betrybe.com/">_Trybe_</a>. Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
 
