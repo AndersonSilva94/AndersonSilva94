@@ -1,10 +1,12 @@
 # Olá, eu sou o Anderson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-## Bem-vindos ao meu perfil!
+## Bem-vindos(as) ao meu perfil!
 
-Sou estudante de **Design Gráfico** na _Universidade Federal do Amazonas_ e **Desenvolvimento Full Stack Web** na _Trybe_. Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
+<img width="245px" height="88" align="right" alt="rotina-dev">
+
+Sou estudante de **Design Gráfico** na <a href="https://www.ufam.edu.br/">_Universidade Federal do Amazonas_</a> e **Desenvolvimento Full Stack Web** na <a href="https://www.betrybe.com/">_Trybe_</a>. Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
 
 
-## Tecnologias e ferramentas em aprendizado :desktop_computer:
+## Tecnologias e ferramentas em constante aprendizado :desktop_computer:
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
