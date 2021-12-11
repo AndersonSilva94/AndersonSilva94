@@ -14,9 +14,10 @@
 - :blush: Estou sempre aberto a novas ideias!
 
 <h2>Projetos em destaque :trophy:</h2>
-- Github API: https://github.com/AndersonSilva94/github-api (Front-End | React.js)
-- Shopping Cart: https://github.com/AndersonSilva94/project-shopping-cart (Front-End | JavaScript)
-- Cookmaster: https://github.com/AndersonSilva94/project-cookmaster (Back-End | Node.js)
+
+- <strong>Github API</strong>: https://github.com/AndersonSilva94/github-api (Front-End | React.js)
+- <strong>Shopping Cart</strong>: https://github.com/AndersonSilva94/project-shopping-cart (Front-End | JavaScript)
+- <strong>Cookmaster</strong>: https://github.com/AndersonSilva94/project-cookmaster (Back-End | Node.js)
 
 <h2>Tecnologias e ferramentas em constante aprendizado :desktop_computer:</h2>
 
