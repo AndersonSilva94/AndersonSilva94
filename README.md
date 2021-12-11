@@ -11,8 +11,12 @@
 - :seedling: Atualmente aprendendo <strong>Typescript, Sequelize ORM, SOLID e Socket.io</strong>
 - :e-mail: email: andssilva.23@gmail.com
 - :star2: Curiosidades: Sou pai de gatos! Gosto de conhecer pessoas, culturas, histórias, contextos, trocar experiências e vivências.
-- :blush: Estou sempre aberto a novas ideias! 
+- :blush: Estou sempre aberto a novas ideias!
 
+<h2>Projetos em destaque :trophy:</h2>
+- Github API: https://github.com/AndersonSilva94/github-api (Front-End | React.js)
+- Shopping Cart: https://github.com/AndersonSilva94/project-shopping-cart (Front-End | JavaScript)
+- Cookmaster: https://github.com/AndersonSilva94/project-cookmaster (Back-End | Node.js)
 
 <h2>Tecnologias e ferramentas em constante aprendizado :desktop_computer:</h2>
 
