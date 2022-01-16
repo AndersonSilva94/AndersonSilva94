@@ -15,6 +15,7 @@
 
 <h2>Projetos em destaque :trophy:</h2>
 
+- <strong>Desafio Zapay</strong>: https://github.com/AndersonSilva94/desafio-zapay (Front-End | React.js | TypeScript | React Testing Library)
 - <strong>Github API</strong>: https://github.com/AndersonSilva94/github-api (Front-End | React.js)
 - <strong>Shopping Cart</strong>: https://github.com/AndersonSilva94/project-shopping-cart (Front-End | JavaScript)
 - <strong>Cookmaster</strong>: https://github.com/AndersonSilva94/project-cookmaster (Back-End | Node.js)
