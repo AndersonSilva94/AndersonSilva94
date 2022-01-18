@@ -8,7 +8,7 @@
 
 - :mortar_board: Sou estudante de <strong>Design Gráfico</strong> na <a href="https://www.ufam.edu.br/">_Universidade Federal do Amazonas_</a> e <strong>Desenvolvimento Full Stack Web</strong> na <a href="https://www.betrybe.com/">_Trybe_</a>. 
 - :video_game: Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
-- :seedling: Atualmente aprendendo <strong>Typescript, Sequelize ORM, SOLID e Socket.io</strong>
+- :seedling: Atualmente aprendendo <strong>Typescript e Socket.io</strong>
 - :e-mail: email: andssilva.23@gmail.com
 - :star2: Curiosidades: Sou pai de gatos! Gosto de conhecer pessoas, culturas, histórias, contextos, trocar experiências e vivências.
 - :blush: Estou sempre aberto a novas ideias!
@@ -16,9 +16,10 @@
 <h2>Projetos em destaque :trophy:</h2>
 
 - <strong>Desafio Zapay</strong>: https://github.com/AndersonSilva94/desafio-zapay (Front-End | React.js | TypeScript | React Testing Library)
-- <strong>Github API</strong>: https://github.com/AndersonSilva94/github-api (Front-End | React.js)
-- <strong>Shopping Cart</strong>: https://github.com/AndersonSilva94/project-shopping-cart (Front-End | JavaScript)
-- <strong>Cookmaster</strong>: https://github.com/AndersonSilva94/project-cookmaster (Back-End | Node.js)
+- <strong>Github API</strong>: https://github.com/AndersonSilva94/github-api (Front-End | React.js | Context API)
+- <strong>Shopping Cart</strong>: https://github.com/AndersonSilva94/project-shopping-cart (Front-End | HTML | CSS | JavaScript)
+- <strong>Cookmaster</strong>: https://github.com/AndersonSilva94/project-cookmaster (Back-End | Node.js | Express.js | MongoDB | Arquitetura MSC | JWT)
+- <strong>Blogs Api</strong>: https://github.com/AndersonSilva94/project-blogs-api (Back-End | Node.js | Express.js | Sequelize | MySQL)
 
 <h2>Tecnologias e ferramentas em constante aprendizado :desktop_computer:</h2>
 
@@ -40,6 +41,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -57,6 +59,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
