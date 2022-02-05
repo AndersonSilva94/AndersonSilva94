@@ -8,7 +8,7 @@
 
 - :mortar_board: Sou estudante de <strong>Design Gráfico</strong> na <a href="https://www.ufam.edu.br/">_Universidade Federal do Amazonas_</a> e <strong>Desenvolvimento Full Stack Web</strong> na <a href="https://www.betrybe.com/">_Trybe_</a>. 
 - :video_game: Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
-- :seedling: Atualmente aprendendo <strong>Typescript e Socket.io</strong>
+- :seedling: Atualmente aprendendo <strong>Typescript</strong>
 - :e-mail: email: andssilva.23@gmail.com
 - :star2: Curiosidades: Sou pai de gatos! Gosto de conhecer pessoas, culturas, histórias, contextos, trocar experiências e vivências.
 - :blush: Estou sempre aberto a novas ideias!
@@ -20,6 +20,7 @@
 - <strong>Shopping Cart</strong>: https://github.com/AndersonSilva94/project-shopping-cart (Front-End | HTML | CSS | JavaScript)
 - <strong>Cookmaster</strong>: https://github.com/AndersonSilva94/project-cookmaster (Back-End | Node.js | Express.js | MongoDB | Arquitetura MSC | JWT)
 - <strong>Blogs Api</strong>: https://github.com/AndersonSilva94/project-blogs-api (Back-End | Node.js | Express.js | Sequelize | MySQL)
+- <strong>Webchat</strong>: https://github.com/AndersonSilva94/project-webchat (Full-Stack | Node.js | Express.js | Socket.io | MongoDB | EJS | CSS)
 
 <h2>Tecnologias e ferramentas em constante aprendizado :desktop_computer:</h2>
 
@@ -44,6 +45,7 @@
 ![Sequelize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
