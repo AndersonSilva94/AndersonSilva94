@@ -8,7 +8,7 @@
 
 - :mortar_board: Sou estudante de <strong>Design Gráfico</strong> na <a href="https://www.ufam.edu.br/">_Universidade Federal do Amazonas_</a> e <strong>Desenvolvimento Full Stack Web</strong> na <a href="https://www.betrybe.com/">_Trybe_</a>. 
 - :video_game: Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
-- :seedling: Atualmente aprendendo <strong>Typescript</strong>
+- :seedling: Atualmente aprendendo <strong>Typescript e Python</strong>
 - :e-mail: email: andssilva.23@gmail.com
 - :star2: Curiosidades: Sou pai de gatos! Gosto de conhecer pessoas, culturas, histórias, contextos, trocar experiências e vivências.
 - :blush: Estou sempre aberto a novas ideias!
