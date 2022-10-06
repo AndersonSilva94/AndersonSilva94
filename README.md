@@ -6,7 +6,7 @@
 
 <h3>Que bom ter você em meu perfil!</h3>
 
-- :mortar_board: Sou estudante de <strong>Design Gráfico</strong> na <a href="https://www.ufam.edu.br/">_Universidade Federal do Amazonas_</a> e <strong>Desenvolvimento Full Stack Web</strong> na <a href="https://www.betrybe.com/">_Trybe_</a>. 
+- :mortar_board: Formado em <strong>Desenvolvimento Full Stack Web</strong> na <a href="https://www.betrybe.com/">_Trybe_</a>
 - :video_game: Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
 - :seedling: Atualmente aprendendo <strong>Typescript e Angular</strong>
 - :e-mail: email: andssilva.23@gmail.com
