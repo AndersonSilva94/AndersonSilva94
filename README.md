@@ -7,6 +7,7 @@
 <h3>Que bom ter você em meu perfil!</h3>
 
 - :mortar_board: Formado em <strong>Desenvolvimento Full Stack Web</strong> na <a href="https://www.betrybe.com/">_Trybe_</a>
+- :computer: Analista de Sistemas Jr. na <strong><a href="https://imaginebeyond.com.br/">Beyond Soluções</a></strong>, alocado no Banco <strong><a href="https://btgpactual.com">BTGPactual</a></strong>
 - :video_game: Gosto de séries, músicas em geral, livros, jogos e apaixonado pela área de tecnologia.
 - :seedling: Atualmente aprendendo <strong>Typescript e Angular</strong>
 - :e-mail: email: andssilva.23@gmail.com
