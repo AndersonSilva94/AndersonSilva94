@@ -17,6 +17,7 @@
 <h2>Projetos em destaque :trophy:</h2>
 
 - <strong>Desafio Zapay</strong>: https://github.com/AndersonSilva94/desafio-zapay (Front-End | React.js | TypeScript | React Testing Library)
+- <strong>Desafio Mesha Tecnologia</strong>: https://github.com/AndersonSilva94/desafio-mesha-tecnologia (Front-End | React.js | | Redux | Hooks | Styled Components)
 - <strong>Github API</strong>: https://github.com/AndersonSilva94/github-api (Front-End | React.js | Context API)
 - <strong>Shopping Cart</strong>: https://github.com/AndersonSilva94/project-shopping-cart (Front-End | HTML | CSS | JavaScript)
 - <strong>Cookmaster</strong>: https://github.com/AndersonSilva94/project-cookmaster (Back-End | Node.js | Express.js | MongoDB | Arquitetura MSC | JWT)
