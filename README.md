@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Anderson, mas pode me chamar de Andy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
-<h2 align="center">Desenvolvedor Front-End | Full Stack | React.js | Node.js</h2>
+<h2 align="center">Desenvolvedor Full Stack</h2>
 
 <img src="https://github.com/AndersonSilva94/AndersonSilva94/blob/main/assets/programador.gif" width="400px" align="right" alt="rotina-dev">
 
@@ -42,6 +42,7 @@
 <h3>Back-end</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
